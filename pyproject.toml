@@ -1,0 +1,9 @@
+[project]
+name = "DumBot"
+version = "0.1.0"
+description = "A really stupid language model trained on Moby Dick"
+requires-python = ">=3.11"
+dependencies = [
+    "torch>=2.0.0",
+    "numpy>=1.24.0",
+]
