@@ -7,7 +7,7 @@ After this, I have been running my model from a terminal. Both of these files ar
 To run the untrained model, use:
     python DumBot_Untrained.py
 
-To run the trained model, use
+To run the trained model, use:
     python DumBot.py
 
 The training should take about 5 minutes to complete, and will list progress as completed.
